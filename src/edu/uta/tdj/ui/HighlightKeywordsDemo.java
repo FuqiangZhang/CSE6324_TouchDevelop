@@ -1,4 +1,4 @@
-package jdtTest;
+package edu.uta.tdj.ui;
 
 import java.awt.Color;
 import java.util.HashSet;

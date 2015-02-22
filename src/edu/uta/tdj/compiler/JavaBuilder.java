@@ -1,4 +1,4 @@
-package jdtTest;
+package edu.uta.tdj.compiler;
 import java.io.File;
 
 import org.apache.tools.ant.Project;

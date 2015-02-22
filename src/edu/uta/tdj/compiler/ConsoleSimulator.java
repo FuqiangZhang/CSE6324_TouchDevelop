@@ -1,4 +1,4 @@
-package jdtTest;
+package edu.uta.tdj.compiler;
 
 import java.io.BufferedReader;
 import java.io.IOException;
